@@ -1,0 +1,33 @@
+body {
+    background-image: url("image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    font-family: "Georgia", sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background-color: #ff69b4;
+    color: #fff;
+    border: 2px dotted #401596;
+	  padding: 10px 15px;
+    width: 250px;
+    margin: 30px 20px 20px 20px;
+    auto-margin: 0 ;
+}
+
+p {
+    text-align: justify;
+    background-color: #fff;
+    font-style: italic;
+    padding: 20px;
+    border: 3px solid #ff1493;
+    border-left: 3px solid black;
+    border-right: 3px double black;
+    border-top: 3px dashed black;
+    border-bottom: 3px dotted black;
+    width: 500px;
+    margin: 0 20px;
+}
