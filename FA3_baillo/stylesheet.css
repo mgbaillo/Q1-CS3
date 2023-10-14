@@ -28,5 +28,6 @@ span {
     font-weight: bold;
     font-style: italic;
     color: rgb(226,135,67);
-    margin: 0px 5px 0px 2px;
+    margin-left: 2px;
+    margin-right: 5px;
 }
